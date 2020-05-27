@@ -2,7 +2,7 @@
 
 <img src="./banner.png" />
 
-# Awesome Software Architecture<br/>
+# Awesome Software Architecture <br/>
   
 [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
   
